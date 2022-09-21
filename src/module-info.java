@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author menad
- *
- */
-module SnakeLadder {
-}
