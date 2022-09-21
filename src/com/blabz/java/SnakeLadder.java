@@ -37,6 +37,7 @@ public class SnakeLadder {
 			}
 
 			System.out.println("Presnt Position of the User: " + userPosition);
+			System.out.println("Present Position of the User: " + userPosition);
 
 		}
 		System.out.println("User has rolled " + count + " times to win!");
